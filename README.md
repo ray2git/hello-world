@@ -6,4 +6,4 @@ Does it support Japanese?
 
 **日本語ができないか？**
 
-The answer appears to be YES.
+The *answer* appears to be YES.
